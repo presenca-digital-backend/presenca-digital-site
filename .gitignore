@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.env
+.env*.local
+.DS_Store
+*.tsbuildinfo
+.yarn/
+limpar.sh
+fix.sh
+fix2.sh
+reset_git.sh
